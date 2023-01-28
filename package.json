@@ -1,0 +1,11 @@
+{
+  "name": "ocr_with_server",
+  "version": "1.0.0",
+  "description": "Here we aim to achieve a Backend requesting an OCR server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SidKad",
+  "license": "ISC"
+}
