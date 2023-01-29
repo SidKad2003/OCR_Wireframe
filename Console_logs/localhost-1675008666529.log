@@ -1,0 +1,90 @@
+OCR_req.js:20 {TextOverlay: {…}, TextOrientation: '0', FileParseExitCode: 1, ParsedText: 'THADOMAL SHAHANI ENGINEERING COLLEGE\r\nTIME TABLE\r\n…amming\r\nMPR - Mini Project I-B\r\nHOD\r\nPrin cipal\r\n', ErrorMessage: '', …}ErrorDetails: ""ErrorMessage: ""FileParseExitCode: 1ParsedText: "THADOMAL SHAHANI ENGINEERING COLLEGE\r\nTIME TABLE\r\nClass Room: 801\r\nSE/ SEM rv/ A1 & DS\r\nDa v/Time\r\nMonday\r\nTuesday\r\nWe dnesday\r\nThursdav\r\nSUBJECT\r\n12:45-1.45\r\nDBMS\r\nDBMS\r\nAOA\r\nDIV\r\nDBMS\r\nAOA\r\nAOA\r\nFacultv\r\nSSV -DIS. S Vichare\r\nBI - Bharati Lugale\r\nBJ - DL Bhushan Jadhav\r\nH2v[ - Himani Deshpande\r\nMT - Momca Tolani\r\n1.45-2.45\r\nOSNR 202\r\nsn DBMS SD 208.4\r\nS13 AOA 208B\r\nsn AOA MB 202\r\nsn MP SD\r\nS13 PP SSV A\r\nEMIV\r\nSII DBMS MT 104\r\nPP SSV 20SA\r\nMP SD 503\r\nFacultv\r\nNV - Naveen Vaswani\r\nMB - Meenu Bhatia\r\nNR - Nikita Raichada\r\nSD - Saloni Dhuru\r\nPS - Dr. Poonam Som\r\nSE A1 & DS\r\nW.E.F.: 9th JAN 2023\r\nSSV/ NR 208\r\nsn MP Bl 503\r\nS12 AOA MB 203\r\nS13 OS NR 202\r\nEMIV\r\nsn PP ssv 208.4\r\nS12 OS HD\r\nS13 DBMS MT 104\r\nsn MPR 203\r\n_MPR 202\r\nS13 MPR 20SA\r\nIV - Engineermg Mathematics IV\r\nAOA - Analysis of Algorithm\r\nDBMS - Database Management System\r\nOS - Operating System\r\nMP - -Microprocessor\r\nPP - Skill Base Lab Course: Python Programming\r\nMPR - Mini Project I-B\r\nHOD\r\nPrin cipal\r\n"TextOrientation: "0"TextOverlay: {Lines: Array(0), HasOverlay: false, Message: 'Text overlay is not provided as it is not requested'}[[Prototype]]: Object
+OCR_req.js:21 THADOMAL SHAHANI ENGINEERING COLLEGE
+TIME TABLE
+Class Room: 801
+SE/ SEM rv/ A1 & DS
+Da v/Time
+Monday
+Tuesday
+We dnesday
+Thursdav
+SUBJECT
+12:45-1.45
+DBMS
+DBMS
+AOA
+DIV
+DBMS
+AOA
+AOA
+Facultv
+SSV -DIS. S Vichare
+BI - Bharati Lugale
+BJ - DL Bhushan Jadhav
+H2v[ - Himani Deshpande
+MT - Momca Tolani
+1.45-2.45
+OSNR 202
+sn DBMS SD 208.4
+S13 AOA 208B
+sn AOA MB 202
+sn MP SD
+S13 PP SSV A
+EMIV
+SII DBMS MT 104
+PP SSV 20SA
+MP SD 503
+Facultv
+NV - Naveen Vaswani
+MB - Meenu Bhatia
+NR - Nikita Raichada
+SD - Saloni Dhuru
+PS - Dr. Poonam Som
+SE A1 & DS
+W.E.F.: 9th JAN 2023
+SSV/ NR 208
+sn MP Bl 503
+S12 AOA MB 203
+S13 OS NR 202
+EMIV
+sn PP ssv 208.4
+S12 OS HD
+S13 DBMS MT 104
+sn MPR 203
+_MPR 202
+S13 MPR 20SA
+IV - Engineermg Mathematics IV
+AOA - Analysis of Algorithm
+DBMS - Database Management System
+OS - Operating System
+MP - -Microprocessor
+PP - Skill Base Lab Course: Python Programming
+MPR - Mini Project I-B
+HOD
+Prin cipal
+
+OCR_req.js:22 {ParsedResults: Array(1), OCRExitCode: 1, IsErroredOnProcessing: false, ProcessingTimeInMilliseconds: '937', SearchablePDFURL: 'Searchable PDF not generated as it was not requested.'}IsErroredOnProcessing: falseOCRExitCode: 1ParsedResults: [{…}]ProcessingTimeInMilliseconds: "937"SearchablePDFURL: "Searchable PDF not generated as it was not requested."[[Prototype]]: Object
+OCR_req.js:23 {"ParsedResults":[{"TextOverlay":{"Lines":[],"HasOverlay":false,"Message":"Text overlay is not provided as it is not requested"},"TextOrientation":"0","FileParseExitCode":1,"ParsedText":"THADOMAL SHAHANI ENGINEERING COLLEGE\r\nTIME TABLE\r\nClass Room: 801\r\nSE/ SEM rv/ A1 & DS\r\nDa v/Time\r\nMonday\r\nTuesday\r\nWe dnesday\r\nThursdav\r\nSUBJECT\r\n12:45-1.45\r\nDBMS\r\nDBMS\r\nAOA\r\nDIV\r\nDBMS\r\nAOA\r\nAOA\r\nFacultv\r\nSSV -DIS. S Vichare\r\nBI - Bharati Lugale\r\nBJ - DL Bhushan Jadhav\r\nH2v[ - Himani Deshpande\r\nMT - Momca Tolani\r\n1.45-2.45\r\nOSNR 202\r\nsn DBMS SD 208.4\r\nS13 AOA 208B\r\nsn AOA MB 202\r\nsn MP SD\r\nS13 PP SSV A\r\nEMIV\r\nSII DBMS MT 104\r\nPP SSV 20SA\r\nMP SD 503\r\nFacultv\r\nNV - Naveen Vaswani\r\nMB - Meenu Bhatia\r\nNR - Nikita Raichada\r\nSD - Saloni Dhuru\r\nPS - Dr. Poonam Som\r\nSE A1 & DS\r\nW.E.F.: 9th JAN 2023\r\nSSV/ NR 208\r\nsn MP Bl 503\r\nS12 AOA MB 203\r\nS13 OS NR 202\r\nEMIV\r\nsn PP ssv 208.4\r\nS12 OS HD\r\nS13 DBMS MT 104\r\nsn MPR 203\r\n_MPR 202\r\nS13 MPR 20SA\r\nIV - Engineermg Mathematics IV\r\nAOA - Analysis of Algorithm\r\nDBMS - Database Management System\r\nOS - Operating System\r\nMP - -Microprocessor\r\nPP - Skill Base Lab Course: Python Programming\r\nMPR - Mini Project I-B\r\nHOD\r\nPrin cipal\r\n","ErrorMessage":"","ErrorDetails":""}],"OCRExitCode":1,"IsErroredOnProcessing":false,"ProcessingTimeInMilliseconds":"937","SearchablePDFURL":"Searchable PDF not generated as it was not requested."}
+OCR_req.js:24 "THADOMAL SHAHANI ENGINEERING COLLEGE\r\nTIME TABLE\r\nClass Room: 801\r\nSE/ SEM rv/ A1 & DS\r\nDa v/Time\r\nMonday\r\nTuesday\r\nWe dnesday\r\nThursdav\r\nSUBJECT\r\n12:45-1.45\r\nDBMS\r\nDBMS\r\nAOA\r\nDIV\r\nDBMS\r\nAOA\r\nAOA\r\nFacultv\r\nSSV -DIS. S Vichare\r\nBI - Bharati Lugale\r\nBJ - DL Bhushan Jadhav\r\nH2v[ - Himani Deshpande\r\nMT - Momca Tolani\r\n1.45-2.45\r\nOSNR 202\r\nsn DBMS SD 208.4\r\nS13 AOA 208B\r\nsn AOA MB 202\r\nsn MP SD\r\nS13 PP SSV A\r\nEMIV\r\nSII DBMS MT 104\r\nPP SSV 20SA\r\nMP SD 503\r\nFacultv\r\nNV - Naveen Vaswani\r\nMB - Meenu Bhatia\r\nNR - Nikita Raichada\r\nSD - Saloni Dhuru\r\nPS - Dr. Poonam Som\r\nSE A1 & DS\r\nW.E.F.: 9th JAN 2023\r\nSSV/ NR 208\r\nsn MP Bl 503\r\nS12 AOA MB 203\r\nS13 OS NR 202\r\nEMIV\r\nsn PP ssv 208.4\r\nS12 OS HD\r\nS13 DBMS MT 104\r\nsn MPR 203\r\n_MPR 202\r\nS13 MPR 20SA\r\nIV - Engineermg Mathematics IV\r\nAOA - Analysis of Algorithm\r\nDBMS - Database Management System\r\nOS - Operating System\r\nMP - -Microprocessor\r\nPP - Skill Base Lab Course: Python Programming\r\nMPR - Mini Project I-B\r\nHOD\r\nPrin cipal\r\n" Second
+socket.js:25 [Violation] 'open' handler took 434ms
+react_devtools_backend.js:4012 TypeError: response is not a function
+    at handleExtractText (OCR_req.js:18:1)
+overrideMethod @ react_devtools_backend.js:4012
+handleExtractText @ OCR_req.js:27
+await in handleExtractText (async)
+callCallback @ react-dom.development.js:4164
+invokeGuardedCallbackDev @ react-dom.development.js:4213
+invokeGuardedCallback @ react-dom.development.js:4277
+invokeGuardedCallbackAndCatchFirstError @ react-dom.development.js:4291
+executeDispatch @ react-dom.development.js:9041
+processDispatchQueueItemsInOrder @ react-dom.development.js:9073
+processDispatchQueue @ react-dom.development.js:9086
+dispatchEventsForPlugins @ react-dom.development.js:9097
+(anonymous) @ react-dom.development.js:9288
+batchedUpdates$1 @ react-dom.development.js:26140
+batchedUpdates @ react-dom.development.js:3991
+dispatchEventForPluginEventSystem @ react-dom.development.js:9287
+dispatchEventWithEnableCapturePhaseSelectiveHydrationWithoutDiscreteEventReplay @ react-dom.development.js:6465
+dispatchEvent @ react-dom.development.js:6457
+dispatchDiscreteEvent @ react-dom.development.js:6430
+OCR_req.js:17 Response {type: 'cors', url: 'https://api.ocr.space/parse/image', redirected: false, status: 200, ok: true, …}body: ReadableStreamlocked: false[[Prototype]]: ReadableStreamcancel: ƒ cancel()length: 0name: "cancel"arguments: (...)caller: (...)[[Prototype]]: ƒ ()getReader: ƒ getReader()length: 0name: "getReader"arguments: (...)caller: (...)[[Prototype]]: ƒ ()locked: (...)pipeThrough: ƒ pipeThrough()length: 1name: "pipeThrough"arguments: (...)caller: (...)[[Prototype]]: ƒ ()pipeTo: ƒ pipeTo()length: 1name: "pipeTo"arguments: (...)caller: (...)[[Prototype]]: ƒ ()tee: ƒ tee()length: 0name: "tee"arguments: (...)caller: (...)[[Prototype]]: ƒ ()constructor: ƒ ReadableStream()arguments: nullcaller: nulllength: 0name: "ReadableStream"prototype: ReadableStream {cancel: ƒ, getReader: ƒ, pipeThrough: ƒ, pipeTo: ƒ, …}[[Prototype]]: ƒ ()Symbol(Symbol.toStringTag): "ReadableStream"get locked: ƒ locked()length: 0name: "get locked"arguments: (...)caller: (...)[[Prototype]]: ƒ ()[[Prototype]]: Objectconstructor: ƒ Object()hasOwnProperty: ƒ hasOwnProperty()isPrototypeOf: ƒ isPrototypeOf()propertyIsEnumerable: ƒ propertyIsEnumerable()toLocaleString: ƒ toLocaleString()toString: ƒ toString()valueOf: ƒ valueOf()length: 0name: "valueOf"arguments: (...)caller: (...)[[Prototype]]: ƒ ()__defineGetter__: ƒ __defineGetter__()__defineSetter__: ƒ __defineSetter__()__lookupGetter__: ƒ __lookupGetter__()__lookupSetter__: ƒ __lookupSetter__()__proto__: (...)get __proto__: ƒ __proto__()set __proto__: ƒ __proto__()bodyUsed: falseheaders: Headers[[Prototype]]: Headersappend: ƒ append()delete: ƒ delete()entries: ƒ entries()forEach: ƒ forEach()get: ƒ ()has: ƒ has()keys: ƒ keys()set: ƒ ()values: ƒ values()constructor: ƒ Headers()Symbol(Symbol.iterator): ƒ entries()Symbol(Symbol.toStringTag): "Headers"[[Prototype]]: Objectok: trueredirected: falsestatus: 200statusText: ""type: "cors"url: "https://api.ocr.space/parse/image"[[Prototype]]: ResponsearrayBuffer: ƒ arrayBuffer()blob: ƒ blob()body: (...)bodyUsed: (...)clone: ƒ clone()formData: ƒ formData()headers: (...)json: ƒ json()length: 0name: "json"arguments: (...)caller: (...)[[Prototype]]: ƒ ()apply: ƒ apply()arguments: (...)bind: ƒ bind()call: ƒ call()caller: (...)constructor: ƒ Function()length: 0name: ""toString: ƒ toString()Symbol(Symbol.hasInstance): ƒ [Symbol.hasInstance]()get arguments: ƒ ()set arguments: ƒ ()get caller: ƒ ()set caller: ƒ ()[[FunctionLocation]]: ​[[Prototype]]: Objectconstructor: ƒ Object()hasOwnProperty: ƒ hasOwnProperty()isPrototypeOf: ƒ isPrototypeOf()propertyIsEnumerable: ƒ propertyIsEnumerable()toLocaleString: ƒ toLocaleString()toString: ƒ toString()valueOf: ƒ valueOf()__defineGetter__: ƒ __defineGetter__()__defineSetter__: ƒ __defineSetter__()__lookupGetter__: ƒ __lookupGetter__()__lookupSetter__: ƒ __lookupSetter__()__proto__: (...)get __proto__: ƒ __proto__()set __proto__: ƒ __proto__()ok: (...)redirected: (...)status: (...)statusText: (...)text: ƒ text()length: 0name: "text"arguments: (...)caller: (...)[[Prototype]]: ƒ ()apply: ƒ apply()arguments: (...)bind: ƒ bind()call: ƒ call()caller: (...)constructor: ƒ Function()length: 0name: ""toString: ƒ toString()length: 0name: "toString"arguments: (...)caller: (...)[[Prototype]]: ƒ ()apply: ƒ apply()arguments: (...)bind: ƒ bind()call: ƒ call()caller: (...)constructor: ƒ Function()length: 0name: ""toString: ƒ toString()Symbol(Symbol.hasInstance): ƒ [Symbol.hasInstance]()get arguments: ƒ ()set arguments: ƒ ()get caller: ƒ ()set caller: ƒ ()[[FunctionLocation]]: ​[[Prototype]]: ObjectSymbol(Symbol.hasInstance): ƒ [Symbol.hasInstance]()get arguments: ƒ ()set arguments: ƒ ()get caller: ƒ ()set caller: ƒ ()[[FunctionLocation]]: ​[[Prototype]]: Objectconstructor: ƒ Object()hasOwnProperty: ƒ hasOwnProperty()isPrototypeOf: ƒ isPrototypeOf()propertyIsEnumerable: ƒ propertyIsEnumerable()toLocaleString: ƒ toLocaleString()toString: ƒ toString()valueOf: ƒ valueOf()__defineGetter__: ƒ __defineGetter__()__defineSetter__: ƒ __defineSetter__()__lookupGetter__: ƒ __lookupGetter__()__lookupSetter__: ƒ __lookupSetter__()__proto__: (...)get __proto__: ƒ __proto__()set __proto__: ƒ __proto__()type: (...)url: (...)constructor: ƒ Response()Symbol(Symbol.toStringTag): "Response"get body: ƒ body()get bodyUsed: ƒ bodyUsed()get headers: ƒ headers()get ok: ƒ ok()get redirected: ƒ redirected()get status: ƒ status()get statusText: ƒ statusText()get type: ƒ type()get url: ƒ url()[[Prototype]]: Objectconstructor: ƒ Object()assign: ƒ assign()create: ƒ create()defineProperties: ƒ defineProperties()defineProperty: ƒ defineProperty()entries: ƒ entries()freeze: ƒ freeze()fromEntries: ƒ fromEntries()getOwnPropertyDescriptor: ƒ getOwnPropertyDescriptor()getOwnPropertyDescriptors: ƒ getOwnPropertyDescriptors()getOwnPropertyNames: ƒ getOwnPropertyNames()getOwnPropertySymbols: ƒ getOwnPropertySymbols()getPrototypeOf: ƒ getPrototypeOf()hasOwn: ƒ hasOwn()is: ƒ is()isExtensible: ƒ isExtensible()isFrozen: ƒ isFrozen()isSealed: ƒ isSealed()keys: ƒ keys()length: 1name: "Object"preventExtensions: ƒ preventExtensions()prototype: {constructor: ƒ, __defineGetter__: ƒ, __defineSetter__: ƒ, hasOwnProperty: ƒ, __lookupGetter__: ƒ, …}seal: ƒ seal()setPrototypeOf: ƒ setPrototypeOf()values: ƒ values()arguments: (...)caller: (...)[[Prototype]]: ƒ ()hasOwnProperty: ƒ hasOwnProperty()isPrototypeOf: ƒ isPrototypeOf()propertyIsEnumerable: ƒ propertyIsEnumerable()toLocaleString: ƒ toLocaleString()toString: ƒ toString()valueOf: ƒ valueOf()length: 0name: "valueOf"arguments: (...)caller: (...)[[Prototype]]: ƒ ()__defineGetter__: ƒ __defineGetter__()__defineSetter__: ƒ __defineSetter__()__lookupGetter__: ƒ __lookupGetter__()__lookupSetter__: ƒ __lookupSetter__()__proto__: (...)get __proto__: ƒ __proto__()set __proto__: ƒ __proto__()
