@@ -14,10 +14,15 @@ const ExtractText = () => {
                 method: 'POST',
                 body: formData
             });
-            const json = await response.json();
-            setText(json.ParsedResults[0].ParsedText);
-            console.log(json.ParsedResults[0]);
-            // setText(json);
+            console.log(response)
+            // const json = await response.json();
+            // if(json === undefined){console.log("pop")}
+            // setText(json.ParsedResults[0].ParsedText);
+            // console.log(json.ParsedResults[0]);
+            // console.log(json.ParsedResults[0].ParsedText);
+            // console.log(json);
+            // console.log(JSON.stringify(json));
+            // console.log(JSON.stringify(json.ParsedResults[0].ParsedText), "Second");
         } catch (err) {
             console.error(err);
         }
