@@ -16,7 +16,7 @@ function App() {
     <ExtractText/>
     </div>
     {/* <Footer/> */}
-    </>
+    </> 
   );
 }
 
