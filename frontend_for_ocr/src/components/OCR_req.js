@@ -13,6 +13,8 @@ const ExtractText = () => {
             // formData.append("TextOverlay", true);
             formData.append('file', e.target.image.files[0]);
             formData.append('OCREngine', 5);
+            formData.append('isTable',true);
+
             // formData.append('OCREngine', 2);
             // OCREngine=2
 
@@ -22,20 +24,20 @@ const ExtractText = () => {
             });
             // console.log(response)
             const json = await response.json();
-            // console.log(json)
+            console.log(json)
             // console.log(json.ParsedResults);
             // console.log(json.ParsedResults[0].TextOverlay.Lines);
             // console.log(json.ParsedResults[0].TextOverlay.Lines)
-            const pan = json.ParsedResults[0].TextOverlay.Lines
+            // const pan = json.ParsedResults[0].TextOverlay.Lines
             // console.log(pan)
-            pan.forEach((key) =>{
-                const k1 = key.Words
-                // console.log(key.LineText)
-                // k1.forEach((k3) => console.log(k3))
-                k1.forEach((k3) => console.log(k3.WordText," ", k3.Left," ", k3.Top))
+            // pan.forEach((key) => {
+            //     const k1 = key.Words
+            //     // console.log(key.LineText)
+            //     // k1.forEach((k3) => console.log(k3))
+            //     k1.forEach((k3) => console.log(k3.WordText, " ", k3.Left, " ", k3.Top))
 
-            } 
-            )
+            // }
+            // )
             // const keys = Object.keys(json.ParsedResults[0].TextOverlay);
             // (pan).forEach((key) => {
             //     const tan = key.words
@@ -44,7 +46,7 @@ const ExtractText = () => {
             // });
             // console.log(response)
             // if(json === undefined){console.log("pop")}
-            // setText(json.ParsedResults[0].ParsedText);
+            setText(json.ParsedResults[0].ParsedText);
             // console.log(json.ParsedResults[0]);
             // console.log(json.ParsedResults[0].ParsedText);
             // console.log(json);

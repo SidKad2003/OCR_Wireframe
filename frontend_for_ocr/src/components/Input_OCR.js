@@ -9,7 +9,7 @@ const setgo = (sendme) => {
 const UploadAndDisplayImage = () => {
   const [data, setdata] = useState([])
   useEffect(() => {
-    getusers();
+    getusers(); 
   }, [])
 
   const getusers = async () => {
